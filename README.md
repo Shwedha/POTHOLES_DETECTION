@@ -21,4 +21,5 @@ Training on such a large dataset will take hours or sometimes even days, so lets
 
 ## YOLOV4:
 
-Only one model is used here thats YoLoV4
+Only one model is used here thats YoLoV4, it is a one-stage detector with several components to it. Each component will be broken down further in the later section of the blog.
+The most accurate modern neural networks out there do not operate in real-time and require a large number of GPUs for training. This is where YOLO comes to rescue by creating a CNN that operates in real-time on a conventional GPU, enabling high quality, and convincing object detection results.
