@@ -9,6 +9,7 @@
 
 Detection of potholes using live webcam and a flask application: 
 ![image](https://user-images.githubusercontent.com/66819327/128059812-b86fc94c-3ed6-4d35-ac37-4d5074c240fd.png)
+
 Sorry for the bad clarity!!
 
 ## DATASET:
